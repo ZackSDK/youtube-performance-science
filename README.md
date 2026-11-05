@@ -165,8 +165,8 @@ In compliance with empirical standards:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/youtube-performance-analysis.git
-cd youtube-performance-analysis
+git clone https://github.com/ZackSDK/youtube-performance-science.git
+cd youtube-performance-science
 
 # 2. Setup Virtual Environment
 python -m venv .venv
