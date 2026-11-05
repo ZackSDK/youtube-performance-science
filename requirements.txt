@@ -1,0 +1,18 @@
+# Core
+python-dotenv==1.0.1
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+google-api-python-client==2.154.0
+
+# Data & Stats
+pandas==2.2.3
+scipy==1.14.1
+numpy==1.26.4
+statsmodels>=0.14.0
+
+# Dataviz
+matplotlib==3.9.3
+seaborn==0.13.2
+
+# Dev / Quality
+ruff==0.8.1
